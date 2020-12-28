@@ -1,6 +1,6 @@
 <h2>SatShriAkaal 🙏🏻, I'm Manik Malhotra! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Still a Student IIIT Gwalior<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Still a Student at IIIT Gwalior<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: manik](https://img.shields.io/badge/-manik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manik-malhotra-029a22193/)](https://www.linkedin.com/in/manik-malhotra-029a22193/)
@@ -11,25 +11,23 @@
 ```javascript
 const manik = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Kotlin","C#", "Python", "Java", "C++"],
+    askMeAbout: ["web dev", "tech", "app dev", "AR"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["React", "Nuxt"],
+            css: ["Sass", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express",]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "open-cv", "php"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Comptetive Programming using C++",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["MVVM","MVC", "Progressive web applications", "Single page applications"],
+    currentFocus: "Android dev and Web Dev",
+    funFact: "it's easier to stay wake till 5am than to wake up at 5am"
 };
 ```
 
