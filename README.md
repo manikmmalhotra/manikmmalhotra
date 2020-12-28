@@ -31,6 +31,10 @@ const manik = {
 };
 ```
 
+[![manik's github stats](https://github-readme-stats.vercel.app/api?username=manikmmalhotra)](https://github.com/manikmmalhotra)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikmmalhotra&layout=compact)](https://github.com/manikmmalhotra)
+
 ### relaxing with
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/31sge3i6xgo2iepb7xigqwu7qgou?si=lgKg8T8PTdymhmRXJXip4w)
 
