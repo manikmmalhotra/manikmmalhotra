@@ -31,4 +31,7 @@ const manik = {
 };
 ```
 
+### Vibing to
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV)
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
