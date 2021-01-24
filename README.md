@@ -11,7 +11,7 @@
 ```javascript
 const manik = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Kotlin","C#", "Python", "Java", "C++"],
+    code: ["Javascript", "Kotlin","C#", "Python", "Java", "C++","Solidity"],
     askMeAbout: ["web dev", "tech", "app dev", "AR"],
     technologies: {
         mobileApp: ["Android App"],
