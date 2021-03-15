@@ -6,6 +6,14 @@
 [![Linkedin: manik](https://img.shields.io/badge/-manik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manik-malhotra-029a22193/)](https://www.linkedin.com/in/manik-malhotra-029a22193/)
 ![GitHub followers](https://img.shields.io/github/followers/manikmmalhotra?label=Follow&style=social)
 
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx minksmanik
+```
+**👆 This command line tool can be found at [npx minksmanik](https://github.com/manikmmalhotra/npx-card)**
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
