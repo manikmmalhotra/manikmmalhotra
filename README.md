@@ -24,7 +24,7 @@ const manik = {
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["React", "Nuxt"],
+            js: ["React", "Next"],
             css: ["Sass", "bootstrap"]
         },
         backEnd: {
