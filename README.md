@@ -39,6 +39,8 @@ const manik = {
 };
 ```
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=manniikk&theme=unicorn)
+
 [![manik's github stats](https://github-readme-stats.vercel.app/api?username=manikmmalhotra)](https://github.com/manikmmalhotra)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikmmalhotra&layout=compact)](https://github.com/manikmmalhotra)
