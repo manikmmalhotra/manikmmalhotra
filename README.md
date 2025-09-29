@@ -1,6 +1,6 @@
 <h2>SatShriAkaal 🙏🏻, I'm Manik Malhotra! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Still a Student at IIIT Gwalior<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Working at Dhristhi technologies<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: manik](https://img.shields.io/badge/-manik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manik-malhotra-029a22193/)](https://www.linkedin.com/in/manik-malhotra-029a22193/)
